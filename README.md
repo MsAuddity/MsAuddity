@@ -5,7 +5,7 @@
  </div>
  <div>
  <h3>Primary Interests</h3>
- <h4>Hardware Design - Low Level Development - Games Development</h4>
+ <h4>Hardware Design - Low Level Development - Web dev- Games dev</h4>
  <h3>
  </div>
 <!---
